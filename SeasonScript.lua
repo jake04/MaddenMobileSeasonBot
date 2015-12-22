@@ -1,7 +1,7 @@
 CREATETIME="2015-12-21 16:59:35";
 SCREEN_RESOLUTION="320x568";
  
- //Selects formation tab
+ //Selects formation 
  
 touchDown(3, 73.4, 170.7);
 usleep(83066.42);
