@@ -1,49 +1,49 @@
 CREATETIME="2015-12-21 16:59:35";
 SCREEN_RESOLUTION="320x568";
  
- //Selects formation 
+--Selects formation tab
  
 touchDown(3, 73.4, 170.7);
 usleep(83066.42);
 touchUp(3, 69.3, 172.2);
 usleep(83625.92);
  
- //Selects formation tab
+--Selects formation tab
  
 touchDown(3, 69.3, 170.2);
 usleep(66414.42);
 touchUp(3, 70.3, 173.2);
 usleep(750188.71);
  
- //Selects I-Formation / 4-3 / Kickoff Middle
+--Selects I-Formation / 4-3 / Kickoff Middle
  
 touchDown(8, 138.4, 268.5);
 usleep(66491.54);
 touchUp(8, 138.4, 267.5);
 usleep(850325.79);
  
- //Flips Play
+--Flips Play
  
 touchDown(3, 65.8, 162.6);
 usleep(66318.08);
 touchUp(3, 68.3, 164.1);
 usleep(366755.50);
  
- //Selects HB Toss / Engage Eight
+--Selects HB Toss / Engage Eight
  
 touchDown(7, 135.4, 159.1);
 usleep(50051.54);
 touchUp(7, 135.9, 160.1);
 usleep(3500164.08);
  
- //Snaps the ball
+--Snaps the ball
  
 touchDown(1, 292.3, 87.6);
 usleep(233593.17);
 touchUp(1, 292.8, 87.1);
 usleep(1516372.62);
  
- //Swipe-up motion used for kicking or trucking
+ --Swipe-up motion used for kicking or trucking
  
 touchDown(9, 235.9, 276.6);
 usleep(83519.79);
@@ -66,7 +66,7 @@ usleep(16435.46);
 touchUp(9, -7.9, 254.3);
 usleep(916879.75);
  
- //Swipe-up motion used for kicking or trucking
+--Swipe-up motion used for kicking or trucking
  
 touchDown(2, 254.7, 276.1);
 usleep(66545.38);
@@ -89,7 +89,7 @@ usleep(16546.62);
 touchUp(2, -7.9, 263.9);
 usleep(733408.75);
  
- //Swipe-up motion used for kicking or trucking 
+ --Swipe-up motion used for kicking or trucking 
  
 touchDown(6, 251.2, 274.1);
 usleep(49958.62);
@@ -108,7 +108,7 @@ usleep(16597.50);
 touchUp(6, -7.9, 241.1);
 usleep(1466831.50);
  
- //Swipe-up motion used for kicking or trucking 
+--Swipe-up motion used for kicking or trucking 
  
 touchDown(4, 267.4, 262.9);
 usleep(66795.04);
@@ -128,4 +128,4 @@ touchMove(4, -6.4, 232.0);
 usleep(16393.46);
 touchUp(4, -7.9, 230.0);
 
-//Repeats after 5 seconds
+--Repeats after 5 seconds
