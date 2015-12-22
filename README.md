@@ -9,3 +9,9 @@ Times: 200
 Interval: 1s
 
 Speed: 1x
+
+#Resources
+
+http://autotouch.me/server/doc/en.html#script
+
+http://www.lua.org/manual/5.1/manual.html
